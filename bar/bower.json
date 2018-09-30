@@ -1,0 +1,17 @@
+{
+  "name": "bar",
+  "description": "",
+  "main": "src/index.js",
+  "authors": [
+    "Hardy Jones <jones3.hardy@gmail.com>"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/joneshf/bower-subdirectories/bar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
